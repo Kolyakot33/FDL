@@ -1,2 +1,2 @@
-# Frogdream Launcher (Old)
+# Frogdream Old Launcher
 Старый лаунчер Frogdream.
